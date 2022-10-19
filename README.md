@@ -1,3 +1,3 @@
 # H-and-M
 
-__Contributor:__ Mohammad Sontanieh-ha, Alexander Heger
+__Contributors:__ Mohammad Sontanieh-ha, Alexander Heger
